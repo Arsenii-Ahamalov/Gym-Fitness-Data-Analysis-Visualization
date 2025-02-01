@@ -25,6 +25,11 @@ Our main focus is **data visualization**, uncovering patterns in fitness trends 
 
 ---
 
+## 🚀 Live Dashboard:
+You can interact with the **Gym Fitness Data Dashboard** directly through this [link](https://arsenii-ahamalov-gym-fitness-data-analysis-vis-dashboard-ntfild.streamlit.app/).
+
+---
+
 This project applies **machine learning visualization techniques** to **enhance interpretability** and provide **insights into gym-goers' fitness behaviors**.  
 
 📌 **Check out the full analysis in our repository!** 🚀  
